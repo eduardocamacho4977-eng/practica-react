@@ -5,7 +5,7 @@ function Contact  ()  {
   const navigate = useNavigate()
 
   const volverNavbar = () => {
-    navigate('/')
+    navigate('/navbar')
   }
 
   return (
